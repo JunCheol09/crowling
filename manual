@@ -1,0 +1,10 @@
+python -m venv venv   가상한경 설치
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass      PowerShell 막혀있으면 
+
+venv\Scripts\activate  가상환경 실행
+
+
+requests설치        pip install requests
+
+beautifulsoup설치   pip install beautifulsoup4
